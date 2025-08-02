@@ -7,4 +7,11 @@ public class A {
 		
 		System.err.println("----------Yaman-----------");
 	}
+
+
+public static void sanjay() {
+		
+		System.err.println("----------Sanjay Sir-----------");
+	}
+
 }
